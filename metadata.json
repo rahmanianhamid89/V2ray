@@ -1,0 +1,6 @@
+{
+  "name": "V2Ray VPN",
+  "description": "Personal V2Ray/Xray-style VLESS VPN client with VLESS URI parser, foreground VpnService, traffic statistics, and diagnostic logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
